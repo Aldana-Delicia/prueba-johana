@@ -1,0 +1,78 @@
+<div class="noticias mt-5">
+    <div class="row">
+
+        <div class="col-lg-3 mb-3 d-flex align-items-stretch">
+            <div class="card">
+                <a href="https://programainformatico3.sanluis.gob.ar/ords/r/pinfo/jovenes-en-formacion/login">
+                    <img src="<?= $ruta ?>/_uploads/secretaria-general/640x640-beca-jovenes.jpg" class="card-img-top" alt="Beca Jóvenes en Formación">
+                </a>
+                <div class="card-body d-flex flex-column">
+                    <a href="https://programainformatico3.sanluis.gob.ar/ords/r/pinfo/jovenes-en-formacion/login" class="enlaceTxt">
+                        <span class="card-title h5">Beca Jóvenes en Formación </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="col-lg-3 mb-3 d-flex align-items-stretch">
+            <div class="card">
+                <a href="https://bit.ly/3U0TOss">
+                    <img src="<?= $ruta ?>/_uploads/desarrollo-humano/640x640-vivienda.png" class="card-img-top" alt="Actualización de datos Inscriptos en Plan Progreso y/o Sueños (año 2011)">
+                </a>
+                <div class="card-body d-flex flex-column">
+                    <a href="https://bit.ly/3U0TOss" class="enlaceTxt">
+                        <span class="card-title h5">Plan Progreso y/o Sueños (año 2011)</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+        <div class="col-lg-3 mb-3 d-flex align-items-stretch">
+            <div class="card">
+                <a href="./desarrollo-productivo/">
+                    <img src="<?= $ruta ?>/_uploads/desarrollo-productivo/640x640-miproximopaso.jpg" class="card-img-top" alt="San Luis Se Activa">
+                </a>
+                <div class="card-body d-flex flex-column">
+                    <a href="./desarrollo-productivo/" class="enlaceTxt">
+                        <span class="card-title h5">San Luis Se Activa » Mi Próximo Paso</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="col-lg-3 mb-3 d-flex align-items-stretch">
+            <div class="card">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeec-pngS-8TUe3Gqi37o2Gax4l1_MSJpt_jr172N8TF6BpWQ/viewform">
+                    <img src="<?= $ruta ?>/_uploads/educacion/640x640-desfile.jpg" class="card-img-top" alt="Inscripción de entidades para desfile del 25 de Mayo">
+                </a>
+                <div class="card-body d-flex flex-column">
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeec-pngS-8TUe3Gqi37o2Gax4l1_MSJpt_jr172N8TF6BpWQ/viewform" class="enlaceTxt">
+                        <span class="card-title h5">Inscripción de entidades para desfile del 25 de Mayo</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+    </div>
+</div>

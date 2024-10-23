@@ -1,0 +1,144 @@
+.badge {
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+.badge.gobernador {
+    background-color: #354393;
+    color: #fff;
+}
+
+.badge.vicegobernador {
+    background-color: #354393;
+    color: #fff;
+}
+
+.badge.educacion {
+    background-color: #80C2D9;
+    color: #004259;
+}
+
+.badge.salud {
+    background-color: #96D980;
+    color: #165900;
+}
+
+.badge.desarrollo-productivo {
+    background-color: #80D9D9;
+    color: #005959;
+}
+
+.badge.desarrollo-humano {
+    background-color: #D9C280;
+    color: #594200;
+}
+
+.badge.seguridad {
+    background-color: #B20000;
+    color: #E8B3B3;
+}
+
+.badge.gobierno {
+    background-color: #0085B2;
+    color: #B3DBE8;
+}
+
+.badge.deporte {
+    background-color: #B200B2;
+    color: #E8B3E8;
+}
+
+.badge.transporte {
+    background-color: #9680D9;
+    color: #160059;
+}
+
+.badge.turismo-cultura {
+    background-color: #D980D9;
+    color: #590059;
+}
+
+.badge.ciencia {
+    background-color: #D9D980;
+    color: #595900;
+}
+
+.badge.discapacidad {
+    background-color: #D99680;
+    color: #591600;
+}
+
+.badge.ambiente {
+    background-color: #2DB200;
+    color: #C0E8B3;
+}
+
+.badge.logistica {
+    background-color: #B2B200;
+    color: #E8E8B3;
+}
+
+.badge.hacienda-infraestructura {
+    background-color: #2D00B2;
+    color: #C0B3E8;
+}
+
+.badge.vinculacion {
+    background-color: #C2D980;
+    color: #425900;
+}
+
+.badge.etica {
+    background-color: #C280D9;
+    color: #420059;
+}
+
+.badge.institucionales {
+    background-color: #D98080;
+    color: #590000;
+}
+
+.badge.legal-tecnica {
+    background-color: #B28500;
+    color: #E8DBB3;
+}
+
+.badge.comunicacion {
+    background-color: #B22D00;
+    color: #E8C0B3;
+}
+
+.badge.secretaria-general {
+    background-color: #00B2B2;
+    color: #B3E8E8;
+}
+
+.badge.fiscalia-estado {
+    background-color: #00B259;
+    color: #B3E8CE;
+}
+
+.badge.xx1 {
+    background-color: #8500B2;
+    color: #DBB3E8;
+}
+
+.badge.xx2 {
+    background-color: #80D9AC;
+    color: #00592C;
+}
+
+.badge.xx4 {
+    background-color: #85B200;
+    color: #DBE8B3;
+}
+
+.badge.gris {
+    background-color: #ebebeb;
+    color: #999;
+}
+
+.badge.link {
+    background-color: #ccc;
+    color: #354393;
+}

@@ -1,0 +1,372 @@
+.structure .oficina-selected {
+    background-color: #354393;
+    color: #fff;
+    font-size: 85%;
+    height: 10.8em;
+    margin-bottom: 1.5em
+}
+
+@media (min-width:768px) {
+    .structure .oficina-selected {
+        font-size: 100%
+    }
+}
+
+.structure .oficina-selected .photo {
+    display: flex;
+    height: 9em;
+    width: 9em
+}
+
+.structure .oficina-selected .photo img {
+    background-color: #354393;
+    border: 3px solid #354393;
+    width: 9em;
+    height: 10.8em
+}
+
+.structure .oficina-selected .photo div {
+    background-color: #ffffff2b;
+    border: 3px solid #354393;
+    width: 9em
+}
+
+
+
+
+
+.structure .oficina-selected .body .actions a {
+    color: #fff
+}
+
+.structure .oficina-selected .body .actions .vermas:hover {
+    text-decoration: underline
+}
+
+.structure .oficina-selected:hover {
+    background-color: #156ba7
+}
+
+.structure .oficina-selected:hover img {
+    background-color: #156ba7;
+    border-color: #156ba7
+}
+
+.structure .oficina-selected[noHover]:hover {
+    background-color: #354393;
+    cursor: default
+}
+
+.structure .oficina-selected[noHover]:hover img {
+    background-color: #354393;
+    border-color: #354393
+}
+
+.structure #container-hijas {
+    margin-top: -1.5em
+}
+
+.structure .container-animation .container-hija {
+    display: flex
+}
+
+.structure .container-animation .container-hija .lines {
+    height: 9em;
+    position: relative;
+    width: 5%
+}
+
+@media (min-width:768px) {
+    .structure .container-animation .container-hija .lines {
+        width: 11%
+    }
+}
+
+.structure .container-animation .container-hija .lines .first {
+    border-bottom: 3px solid #354393;
+    border-left: 3px solid #354393;
+    height: 6.5em;
+    left: 0;
+    position: absolute;
+    width: 100%
+}
+
+@media (min-width:768px) {
+    .structure .container-animation .container-hija .lines .first {
+        height: 5.5em;
+        left: 65%;
+        width: 35%
+    }
+}
+
+.structure .container-animation .container-hija .lines .second {
+    border-left: 3px solid #354393;
+    height: 6.5em;
+    left: 0;
+    position: absolute;
+    top: 5.5em;
+    width: 100%
+}
+
+@media (min-width:768px) {
+    .structure .container-animation .container-hija .lines .second {
+        height: 5.5em;
+        left: 65%;
+        top: 4.5em;
+        width: 35%
+    }
+}
+
+.structure .container-animation .container-hija .oficina-hija {
+    background-color: #ddedf2;
+    color: #354393;
+    font-size: 75%;
+    margin-top: 1.5em;
+    max-height: 9.5em;
+    width: 95%
+}
+
+@media (min-width:768px) {
+    .structure .container-animation .container-hija .oficina-hija {
+        font-size: 95%;
+        height: 9em;
+        width: 89%
+    }
+}
+
+.structure .container-animation .container-hija .oficina-hija .photo {
+    height: 9em;
+    width: 7.5em
+}
+
+.structure .container-animation .container-hija .oficina-hija .photo img {
+    background-color: #ddedf2;
+    border: 3px solid #ddedf2;
+    width: 7.5em
+}
+
+.structure .container-animation .container-hija .oficina-hija .photo div {
+    background-color: #00000005;
+    border: 3px solid #ddedf2;
+    width: 7.5em
+}
+
+.structure .container-animation .container-hija .oficina-hija:hover {
+    background-color: #b7d9ed;
+}
+
+.structure .container-animation .container-hija .oficina-hija:hover img {
+    background-color: #b7d9ed;
+    border-color: #b7d9ed
+}
+
+.structure .container-animation .container-hija .oficina-hija:hover .edit-funcionario span {
+    display: inline-flex
+}
+
+.structure .container-animation .container-hija .oficina-hija[noHover]:hover {
+    background-color: #DDEDF2;
+    cursor: default
+}
+
+.structure .container-animation .container-hija .oficina-hija[noHover]:hover img {
+    background-color: #DDEDF2;
+    border-color: #DDEDF2
+}
+
+
+.structure .container-animation:last-child .second {
+    display: none
+}
+
+.structure .oficina-hija,
+.structure .oficina-selected {
+    cursor: pointer;
+    display: flex
+}
+
+.structure .oficina-hija.nivel-2 .photo,
+.structure .oficina-hija.nivel-3 .photo,
+.structure .oficina-hija.nivel-4 .photo,
+.structure .oficina-hija.nivel-5 .photo,
+.structure .oficina-hija.nivel-6 .photo,
+.structure .oficina-selected.nivel-2 .photo,
+.structure .oficina-selected.nivel-3 .photo,
+.structure .oficina-selected.nivel-4 .photo,
+.structure .oficina-selected.nivel-5 .photo,
+.structure .oficina-selected.nivel-6 .photo {
+    display: none
+}
+
+.structure .oficina-hija.nivel-2 .body,
+.structure .oficina-hija.nivel-3 .body,
+.structure .oficina-hija.nivel-4 .body,
+.structure .oficina-hija.nivel-5 .body,
+.structure .oficina-hija.nivel-6 .body,
+.structure .oficina-selected.nivel-2 .body,
+.structure .oficina-selected.nivel-3 .body,
+.structure .oficina-selected.nivel-4 .body,
+.structure .oficina-selected.nivel-5 .body,
+.structure .oficina-selected.nivel-6 .body {
+    padding-left: 1.5em
+}
+
+
+
+@media (min-width:768px) {
+
+    .structure .oficina-hija .photo,
+    .structure .oficina-selected .photo {
+        display: flex
+    }
+}
+
+.structure .oficina-hija .body,
+.structure .oficina-selected .body {
+    padding: 1em 0 1em 1em;
+    position: relative;
+    width: 90%
+}
+
+.structure .oficina-hija .body h2,
+.structure .oficina-hija .body h3,
+.structure .oficina-selected .body h2,
+.structure .oficina-selected .body h3 {
+    font-size: 1.2em;
+    font-weight: 600;
+    margin-bottom: 0
+}
+
+.structure .oficina-hija .body span,
+.structure .oficina-selected .body span {
+    font-size: 1.1em
+}
+
+.structure .oficina-hija .body .options,
+.structure .oficina-selected .body .options {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.5em;
+    height: 3em;
+    position: absolute;
+    right: -5%
+}
+
+.structure .oficina-hija .body .options a:hover,
+.structure .oficina-selected .body .options a:hover {
+    color: #0d3f63
+}
+
+@media (min-width:768px) {
+
+    .structure .oficina-hija .body .options,
+    .structure .oficina-selected .body .options {
+        right: 2%
+    }
+}
+
+.structure .oficina-hija .body .actions,
+.structure .oficina-selected .body .actions {
+    align-items: flex-end;
+    bottom: 1em;
+    display: flex;
+    position: absolute;
+    width: 95%
+}
+
+.structure .oficina-hija .body .actions a.vermas,
+.structure .oficina-selected .body .actions a.vermas {
+    width: fit-content
+}
+
+.structure .oficina-hija .body .actions div,
+.structure .oficina-selected .body .actions div {
+    font-size: 1.5em;
+    text-align: end;
+    width: 90%
+}
+
+.structure .oficina-hija .body .arrow,
+.structure .oficina-selected .body .arrow {
+    font-size: 1.2rem;
+    position: absolute;
+    top: 38%
+}
+
+.structure .oficina-hija .body .arrow.selected,
+.structure .oficina-selected .body .arrow.selected {
+    right: 5%
+}
+
+.structure .oficina-hija .body .arrow.hija.public,
+.structure .oficina-selected .body .arrow.hija.public {
+    right: 5%
+}
+
+@media (min-width:768px) {
+
+    .structure .oficina-hija .body .arrow.hija.public,
+    .structure .oficina-selected .body .arrow.hija.public {
+        right: 3%
+    }
+
+    .structure .oficina-hija .body,
+    .structure .oficina-selected .body {
+        width: 100%
+    }
+}
+
+.structure .oficina-hija:hover .edit-funcionario span,
+.structure .oficina-selected:hover .edit-funcionario span {
+    display: inline-flex
+}
+
+@media (min-width:768px) {
+    .structure .oficina-selected.nivel-0 {
+        border-right: .5em solid #20295A
+    }
+
+    .structure .oficina-selected.nivel-1 {
+        border-right: .5em solid #0c5b87
+    }
+
+    .structure .oficina-selected.nivel-2 {
+        border-right: .5em solid #1879ba
+    }
+
+    .structure .oficina-selected.nivel-3 {
+        border-right: .5em solid #3a9fcc
+    }
+
+    .structure .oficina-selected.nivel-4 {
+        border-right: .5em solid #6fb6dd
+    }
+
+    .structure .oficina-selected.nivel-5 {
+        border-right: .5em solid #92c9e8
+    }
+
+    .structure .oficina-hija.nivel-0 {
+        border-right: .5em solid rgba(12, 58, 84, .5)
+    }
+
+    .structure .oficina-hija.nivel-1 {
+        border-right: .5em solid rgba(12, 91, 135, .5)
+    }
+
+    .structure .oficina-hija.nivel-2 {
+        border-right: .5em solid rgba(24, 121, 186, .5)
+    }
+
+    .structure .oficina-hija.nivel-3 {
+        border-right: .5em solid rgba(58, 159, 204, .5)
+    }
+
+    .structure .oficina-hija.nivel-4 {
+        border-right: .5em solid rgba(111, 182, 221, .5)
+    }
+
+    .structure .oficina-hija.nivel-5 {
+        border-right: .5em solid rgba(146, 201, 232, .5)
+    }
+}

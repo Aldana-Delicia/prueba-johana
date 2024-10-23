@@ -1,0 +1,17 @@
+#shareButton {
+position : fixed;
+bottom : 15px;
+right : 15px;
+z-index : 1000;
+width : 20px;
+height : 20px;
+border-radius : 50%;
+background-color : #333;
+display : flex;
+justify-content : center;
+align-items : center;
+color : #fff;
+transition : background-color 0.3s;
+padding : 24px;
+border : none;
+}

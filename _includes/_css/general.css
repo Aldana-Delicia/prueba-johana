@@ -1,0 +1,162 @@
+body {
+    background-color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+.h1,
+.h2,
+.h3,
+.h4 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+a.linkAzul {
+    color: blue;
+}
+
+
+.franjaAzul {
+    background-color: #354393;
+    padding: 10px 0;
+}
+
+.franjaCeleste {
+    background-color: #4BABCD;
+    padding: 10px 0;
+    background-position: center center;
+    background-size: cover;
+    background-image: url("https://sanluis.gov.ar/_img/fondo_celeste.jpg");
+
+}
+
+.card-celeste {
+    background-color: #4BABCD;
+    color: #fff;
+    border-bottom: none;
+    text-align: center;
+}
+
+.lista-celeste {
+    background-color: #354393;
+    color: #fff;
+}
+
+.text-azul {
+    color: #354393;
+}
+
+.franjaGris {
+    background-color: #3F3F3F;
+    padding: 10px 0;
+}
+
+.franjaAzure {
+    background-color: azure;
+    padding: 10px 0;
+}
+
+.franjaAzure2 {
+    background-color: azure;
+}
+
+.franjaClaro {
+    background-color: #F2F2F2;
+    padding: 10px 0;
+}
+
+.logoHeader {
+    max-height: 100px;
+}
+
+.enlaceTxt {
+    color: black;
+    text-decoration: none;
+}
+
+.enlaceTxt:hover {
+    color: #2968C8;
+}
+
+.enlaceNegro {
+    color: #ccc;
+    text-decoration: none;
+}
+
+.enlaceNegro:hover {
+    color: #00FFFF;
+    text-decoration: underline;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.social-icons a i {
+    font-size: 2em;
+}
+
+.tituloSec {
+    font-size: 2.5em;
+    font-weight: 700;
+    text-shadow: 0 2px 2px rgb(0, 0, 0, 0.5);
+}
+
+.btn-azul {
+    background-color: #354393;
+    color: #fff;
+}
+
+.btn-azul:hover {
+    background-color: #0056b3;
+    color: #fff;
+}
+
+.card:hover .card-title {
+    color: #0056b3;
+}
+
+.card:hover .card-body {
+    background-color: #eaf3fc;
+}
+
+.card:hover .card-celeste {
+    background-color: #354393;
+}
+
+.card:hover img {
+    opacity: 0.8;
+}
+
+@media (min-width: 768px) {
+    .listado {
+        flex-direction: row;
+    }
+
+    .listado>.list-group-item:first-child:not(:last-child) {
+        border-bottom-left-radius: var(--bs-list-group-border-radius);
+        border-top-right-radius: 0;
+    }
+
+    .listado>.list-group-item+.list-group-item {
+        border-top-width: var(--bs-list-group-border-width);
+        border-left-width: 0;
+    }
+
+    .listado>.list-group-item:last-child:not(:first-child) {
+        border-top-right-radius: var(--bs-list-group-border-radius);
+        border-bottom-left-radius: 0;
+    }
+}
+
+/*MODAL*/
+.header-azul {
+    background-color: #354393;
+    color: #fff;
+}

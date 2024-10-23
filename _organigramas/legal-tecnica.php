@@ -1,0 +1,16 @@
+<p class="fs-5 py-2">Esta sección se encuentra en constante proceso de actualización. Si encuentra algún error o tiene algún comentario, <a href="../../consulta/?org=11">contáctenos</a>.</p>
+<ul class="list-group mt-3 mb-5">
+<li class="list-group-item fs-5 py-3 grupo1 nivel1"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">1.</span></div><div class="col">Secretaría de Estado Legal y Técnica<br>ZARATE, Fabiana</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo1 nivel2"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">» 1.1.</span></div><div class="col">Subdirección Control Legal<br>NOSTRAY, Matias Nicolas</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo1 nivel3"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">»» 1.1.1.</span></div><div class="col">Área Control Legal y Técnico 1<br>ROMERO, Maria Pilar</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo1 nivel3"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">»» 1.1.2.</span></div><div class="col">Área Control Legal y Técnico 2<br>GATICA SCHMITZ, Micaela Marlene</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo1 nivel3"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">»» 1.1.3.</span></div><div class="col">Área Control Legal y Técnico 3<br>SOLARI, Maria Milagros</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo1 nivel3"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">»» 1.1.4.</span></div><div class="col">Área Control Legal y Técnico 4<br>FERRARO, Agustina</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo1 nivel3"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">»» 1.1.5.</span></div><div class="col">Área Control Legal y Técnico 5<br>FUNES, Miriam Daniela</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo1 nivel3"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">»» 1.1.6.</span></div><div class="col">Área Control Legal y Técnico 6<br>PARNISARI, Elsa Judith</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo1 nivel3"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">»» 1.1.7.</span></div><div class="col">Área Control Legal y Técnico 7<br>MUÑOZ, Maria Elena</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo1 nivel3"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">»» 1.1.8.</span></div><div class="col">Área Control Legal y Técnico 8<br>VOLKER, Virginia Soledad</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo2 nivel2"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">» 1.2.</span></div><div class="col">Dirección Boletín Oficial y Judicial<br>FARIAS, Gustavo Ariel</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo2 nivel2"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">» 1.3.</span></div><div class="col">Oficina Registro Decretos<br>OJEDA, Oscar</div></div></li>
+</ul>
+<p class="fs-5 py-2">Última actualización del organigrama: 11/09/2024 13:18</p>

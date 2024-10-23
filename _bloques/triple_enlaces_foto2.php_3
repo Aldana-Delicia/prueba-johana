@@ -1,0 +1,113 @@
+<div class="noticias mt-5">
+    <div class="row">
+
+    <div class="col-lg-4 mb-3 d-flex align-items-stretch">
+            <div class="card">
+                <a href="https://agenciasanluis.com/2024/05/29/945088-defensa-al-consumidor-estara-en-juana-koslay-brindando-asesoramiento/">
+                    <img src="<?= $ruta ?>/_uploads/gobierno/640x640-defensa-tu-barrio.jpg" class="card-img-top" alt="Defensa al Consumidor estará en Juana Koslay brindando asesoramiento">
+                </a>
+                <div class="card-body d-flex flex-column">
+                    <a href="https://agenciasanluis.com/2024/05/29/945088-defensa-al-consumidor-estara-en-juana-koslay-brindando-asesoramiento/" class="enlaceTxt">
+                        <span class="card-title h5">Defensa al Consumidor estará en Juana Koslay brindando asesoramiento </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-lg-4 mb-3 d-flex align-items-stretch">
+            <div class="card">
+                <a href="https://intercolegiales.sanluis.gov.ar/">
+                    <img src="<?= $ruta ?>/_uploads/deportes/intercolegiales_deportivos.png" class="card-img-top" alt="Juegos Intercolegiales Deportivos y Intercolegiales Culturales">
+                </a>
+                <div class="card-body d-flex flex-column">
+                    <a href="https://intercolegiales.sanluis.gov.ar/" class="enlaceTxt">
+                        <span class="card-title h5">Juegos Intercolegiales Deportivos y Intercolegiales Culturales</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-lg-4 mb-3 d-flex align-items-stretch">
+            <div class="card">
+                <a href="./gobierno/ong/">
+                    <img src="<?= $ruta ?>/_uploads/gobierno/640x640-ong.jpg" class="card-img-top" alt="Programa de Fortalecimiento Institucional de ONG's">
+                </a>
+                <div class="card-body d-flex flex-column">
+                    <a href="./gobierno/ong/" class="enlaceTxt">
+                        <span class="card-title h5">Programa de Fortalecimiento Institucional de ONG's</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+
+<!--         <div class="col-lg-4 mb-3 d-flex align-items-stretch">
+            <div class="card">
+                <a href="https://programainformatico3.sanluis.gob.ar/ords/r/pinfo/jovenes-en-formacion/login">
+                    <img src="<?= $ruta ?>/_uploads/secretaria-general/640x640-beca-jovenes.jpg" class="card-img-top" alt="Beca Jóvenes en Formación">
+                </a>
+                <div class="card-body d-flex flex-column">
+                    <a href="https://programainformatico3.sanluis.gob.ar/ords/r/pinfo/jovenes-en-formacion/login" class="enlaceTxt">
+                        <span class="card-title h5">Beca Jóvenes en Formación </span>
+                    </a>
+                </div>
+            </div>
+        </div> -->
+
+
+
+        <div class="col-lg-4 mb-3 d-flex align-items-stretch">
+            <div class="card">
+                <a href="https://bit.ly/3U0TOss">
+                    <img src="<?= $ruta ?>/_uploads/desarrollo-humano/640x640-vivienda.png" class="card-img-top" alt="Actualización de datos Inscriptos en Plan Progreso y/o Sueños (año 2011)">
+                </a>
+                <div class="card-body d-flex flex-column">
+                    <a href="https://bit.ly/3U0TOss" class="enlaceTxt">
+                        <span class="card-title h5">Plan Progreso y/o Sueños (año 2011)</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-4 mb-3 d-flex align-items-stretch">
+            <div class="card">
+                <a href="https://bit.ly/3WmKHFi">
+                    <img src="<?= $ruta ?>/_uploads/seguridad/640x640-policia.png" class="card-img-top" alt="Actualización de datos de Policías y Penitenciarios">
+                </a>
+                <div class="card-body d-flex flex-column">
+                    <a href="https://bit.ly/3WmKHFi" class="enlaceTxt">
+                        <span class="card-title h5">Actualización de datos de Policías y Penitenciarios</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-lg-4 mb-3 d-flex align-items-stretch">
+            <div class="card">
+                <a href="./desarrollo-productivo/">
+                    <img src="<?= $ruta ?>/_uploads/desarrollo-productivo/640x640-miproximopaso.jpg" class="card-img-top" alt="San Luis Se Activa">
+                </a>
+                <div class="card-body d-flex flex-column">
+                    <a href="./desarrollo-productivo/" class="enlaceTxt">
+                        <span class="card-title h5">San Luis Se Activa » Mi Próximo Paso</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+</div>

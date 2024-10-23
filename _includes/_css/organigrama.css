@@ -1,0 +1,32 @@
+.nivel1 {
+    background-color: #000;
+    color: #fff;
+    font-weight: 700;
+}
+
+.nivel2.grupo1 {
+    background-color: #BBCFEE;
+    color: #1C234F;
+}
+
+.sin-padding-right {
+    padding-right: 0;
+    display: block;
+}
+
+.nivel2 {
+    background-color: #354393;
+    color: #fff;
+}
+
+.nivel3 {
+    background-color: #F2F9FB;
+}
+
+.nivel4 {
+    background-color: #FFFFF6;
+}
+
+.nivel5 {
+    background-color: #FFFFFF;
+}

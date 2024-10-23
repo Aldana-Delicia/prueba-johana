@@ -1,0 +1,12 @@
+<p class="fs-5 py-2">Esta sección se encuentra en constante proceso de actualización. Si encuentra algún error o tiene algún comentario, <a href="../../consulta/?org=14">contáctenos</a>.</p>
+<ul class="list-group mt-3 mb-5">
+<li class="list-group-item fs-5 py-3 grupo1 nivel1"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">1.</span></div><div class="col">Secretaría de Estado de Asuntos Institucionales y Enlace Parlamentario<br>GIRAUDO, Jose Antonio</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo1 nivel2"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">» 1.1.</span></div><div class="col">Secretaría Privada<br>BERGESIO, Emilce Griselda</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo2 nivel2"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">» 1.2.</span></div><div class="col">Dirección de Asuntos Institucionales<br>VILCHEZ, Hector Daniel</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo2 nivel3"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">»» 1.2.1.</span></div><div class="col">Subárea Vinculación Partidos Políticos<br>CARMONA, Guillermo Gabriel</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo2 nivel3"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">»» 1.2.2.</span></div><div class="col">Subárea Vinculación Secretaría Electoral<br>BERRUETTA MERCADO, Mario Roberto</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo2 nivel2"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">» 1.3.</span></div><div class="col">Área de Enlace Parlamentario<br>HERRERA, Veronica Ines</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo2 nivel3"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">»» 1.3.1.</span></div><div class="col">Subárea Enlace Diputados<br>SOSA SOSA, Lidia Rosa</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo2 nivel3"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">»» 1.3.2.</span></div><div class="col">Subárea Enlace Senado<br>CAPRICCIO, Antonella</div></div></li>
+</ul>
+<p class="fs-5 py-2">Última actualización del organigrama: 11/09/2024 13:18</p>

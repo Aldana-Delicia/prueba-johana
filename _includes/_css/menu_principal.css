@@ -1,0 +1,7 @@
+.list-group-item small {
+    overflow : hidden;
+    white-space : nowrap;
+    text-overflow : ellipsis;
+    display : block;
+    max-width : 100%;
+}

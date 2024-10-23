@@ -1,0 +1,12 @@
+<p class="fs-5 py-2">Esta sección se encuentra en constante proceso de actualización. Si encuentra algún error o tiene algún comentario, <a href="../../consulta/?org=10">contáctenos</a>.</p>
+<ul class="list-group mt-3 mb-5">
+<li class="list-group-item fs-5 py-3 grupo1 nivel1"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">1.</span></div><div class="col">Secretaría de Estado de Vinculación Interjurisdiccional<br>GONZALEZ RIOLLO, Gabriela</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo1 nivel2"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">» 1.1.</span></div><div class="col">Secretaría Privada<br>LOPEZ, Maria Pia</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo1 nivel2"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">» 1.2.</span></div><div class="col">Subdireccion Comunicación Institucional<br>VERDULLO, Marcos Ezequiel</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo2 nivel2"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">» 1.3.</span></div><div class="col">Direccion de Relaciones Interprovinciales<br>PERAL, Santiago Jesus</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo2 nivel2"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">» 1.4.</span></div><div class="col">Direccion de Relaciones Internacionales<br>BENITO, Sofia</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo2 nivel2"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">» 1.5.</span></div><div class="col">Subdireccion de Salud y Deporte<br>AGUILAR, Mateo Javier</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo2 nivel2"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">» 1.6.</span></div><div class="col">Subdireccion de Turismo y Cultura<br>SOBRINO, Maria Felicitas</div></div></li>
+<li class="list-group-item fs-5 py-3 grupo2 nivel2"><div class="row"><div class="col-auto sin-padding-right"><span class="nivel-symbol">» 1.7.</span></div><div class="col">Subdireccion de Vinculacion Ciudadana<br>CAMBIAGGI HOLZMANN, Joaquin Ariel</div></div></li>
+</ul>
+<p class="fs-5 py-2">Última actualización del organigrama: 11/09/2024 13:18</p>
